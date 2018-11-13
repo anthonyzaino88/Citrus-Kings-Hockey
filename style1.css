@@ -1,0 +1,143 @@
+
+body{
+  margin:0;
+  font-family: "Jura", sans-serif;
+  background-color: black;
+  text-align: center;
+
+}
+
+.navbar{
+  background-color: black;
+
+}
+.navbar-toggler {
+  background-color: black;
+  background-image: url("img/Citrus King.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-link {
+  color: orange;
+}
+
+.navbar-brand {
+  color: orange;
+}
+
+
+
+#showcase h1 {
+  font-size: 35px;
+  padding-top: 40px;
+  padding-bottom: 0px;
+}
+
+#showcase p {
+  font-size: 15px;
+}
+
+
+
+#showcase {
+  min-height: 250px;
+  color: orange;
+  text-align: center;
+
+}
+
+
+
+#showcase .content-wrap {
+  padding: 1em 1em;
+}
+
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa {
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+  border-radius: 50%;
+  margin: 5px 2px;
+
+  }
+
+
+.fa-facebook {
+  background: black;
+  color: orange;
+}
+
+.fa-instagram {
+  background: black;
+  color: orange;
+}
+
+.fa-twitter {
+  background: black;
+  color: orange;
+}
+.media-buttons {
+  text-align: center;
+}
+
+
+
+
+#showcase .content-wrap {
+  padding: 1em 1em 1em;
+}
+
+#signupform h1{
+  padding: 0em 1em 1em;
+  font-family:"Jura", sans-serif;
+  color: black;
+  font-size: 30px;
+
+}
+
+
+
+#signupform .box {
+  display:grid;
+  padding: 1em 1em 1em;
+  color: black;
+  width: 100%;
+  background: orange;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  text-align: center;
+  margin-top:
+  margin-bottom: 250px;
+
+}
+
+.btn {
+  padding: .5em 2em .5em;
+  color:orange;
+  background-color: black;
+
+}
+
+#main-footer {
+  padding: 1em;
+  background: orange;
+  color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+}
+
+table {
+  align-content: center;
+}
